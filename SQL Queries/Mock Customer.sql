@@ -1,0 +1,10 @@
+insert into Customer (customerid, socialsecurno, name, dateofbirth, address, phonenum, email) values (7160, 426194185, 'Derward', '2022-06-13', '9881 Tony Pass', '6538894560', 'dhiscoe0@hhs.gov');
+insert into Customer (customerid, socialsecurno, name, dateofbirth, address, phonenum, email) values (1572, 718588928, 'Marcel', '2022-02-16', '19547 Dahle Way', '1486484219', 'mgroneway1@google.cn');
+insert into Customer (customerid, socialsecurno, name, dateofbirth, address, phonenum, email) values (3648, 559948738, 'Worthy', '2022-08-14', '9375 Graceland Road', '5574190941', 'wwalczak2@fastcompany.com');
+insert into Customer (customerid, socialsecurno, name, dateofbirth, address, phonenum, email) values (9584, 755131793, 'Max', '2022-06-02', '59 Cardinal Court', '8271277887', 'mbugge3@yelp.com');
+insert into Customer (customerid, socialsecurno, name, dateofbirth, address, phonenum, email) values (3920, 381427307, 'Stanfield', '2022-11-03', '565 Mitchell Avenue', '2581139087', 'spenhallurick4@google.de');
+insert into Customer (customerid, socialsecurno, name, dateofbirth, address, phonenum, email) values (2469, 153658444, 'Dolli', '2021-09-17', '4401 Hudson Lane', '2026965883', 'dclowley5@gnu.org');
+insert into Customer (customerid, socialsecurno, name, dateofbirth, address, phonenum, email) values (7746, 763321091, 'Thekla', '2022-06-13', '11 Messerschmidt Terrace', '3673074917', 'tspaldin6@oaic.gov.au');
+insert into Customer (customerid, socialsecurno, name, dateofbirth, address, phonenum, email) values (7593, 651122756, 'Julita', '2022-02-11', '1 Onsgard Avenue', '1383827529', 'jdwerryhouse7@google.nl');
+insert into Customer (customerid, socialsecurno, name, dateofbirth, address, phonenum, email) values (1946, 104982408, 'Riobard', '2021-08-30', '11849 Rockefeller Way', '5122641206', 'rskettles8@4shared.com');
+insert into Customer (customerid, socialsecurno, name, dateofbirth, address, phonenum, email) values (8815, 840116847, 'Katerina', '2022-09-12', '125 Messerschmidt Road', '3024078203', 'kosgood9@php.net');

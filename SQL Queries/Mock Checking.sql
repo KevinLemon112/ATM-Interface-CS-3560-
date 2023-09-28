@@ -1,0 +1,10 @@
+insert into Checking (accountno, maxwithdrawamt) values (6584, 453.79);
+insert into Checking (accountno, maxwithdrawamt) values (5327, 551.33);
+insert into Checking (accountno, maxwithdrawamt) values (2545, 676.52);
+insert into Checking (accountno, maxwithdrawamt) values (1921, 985.3);
+insert into Checking (accountno, maxwithdrawamt) values (9125, 680.27);
+insert into Checking (accountno, maxwithdrawamt) values (4225, 356.69);
+insert into Checking (accountno, maxwithdrawamt) values (3735, 228.9);
+insert into Checking (accountno, maxwithdrawamt) values (3423, 411.91);
+insert into Checking (accountno, maxwithdrawamt) values (1267, 620.11);
+insert into Checking (accountno, maxwithdrawamt) values (7585, 501.55);

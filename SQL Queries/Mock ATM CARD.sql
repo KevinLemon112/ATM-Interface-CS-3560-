@@ -1,0 +1,21 @@
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (6351077476071234, '2024-02-11', 1133, 5558.05);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (4086923578561146, '2023-10-16', 1177, 7179.45);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (6054925672191438, '2024-03-18', 1165, 2733.79);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (1979923345426112, '2023-12-07', 1180, 7496.99);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (7486830175368198, '2023-07-05', 1135, 3343.24);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (2540843686843806, '2023-10-13', 1229, 7948.22);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (2183593543161368, '2023-12-07', 1201, 5248.81);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (5553097662550378, '2024-04-17', 1229, 9735.81);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (9170298670493943, '2023-06-02', 1152, 8054.36);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (8262167542948411, '2023-08-10', 1019, 3690.01);
+
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (9351075653245237, '2023-10-16', 1327, 7179.45);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (8086934538561107, '2023-10-16', 1647, 7179.45);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (3432576523445445, '2023-10-16', 1532, 7179.45);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (1979657655426112, '2023-10-16', 1584, 7179.45);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (6838797368168198, '2023-10-16', 7532, 7179.45);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (2540768530638478, '2023-10-16', 8864, 7179.45);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (6574564532423756, '2023-10-16', 7642, 7179.45);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (5553445653453456, '2023-10-16', 5645, 7179.45);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (3456467836543253, '2023-10-16', 6643, 7179.45);
+insert into AtmCard (cardno, expirdate, pinno, currbalance) values (2345233456689768, '2023-10-16', 6854, 7179.45);
